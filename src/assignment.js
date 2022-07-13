@@ -22,7 +22,6 @@ function sumOfNumbers(arrayOfNumbers) {
     }
       return sum
 }
-console.log(sumOfNumbers(arrayOfNumbers))
 assignment.sumOfNumbers = sumOfNumbers;
 
 /**
